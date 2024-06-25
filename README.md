@@ -17,8 +17,8 @@
 pip es el administrador de paquetes para Python. Permite instalar, actualizar y desinstalar paquetes y sus dependencias desde el Python Package Index (PyPI) y otros índices de paquetes. pip facilita la gestión de bibliotecas y módulos necesarios para el desarrollo de aplicaciones en Python.
 
 ## ¿Por qué es importante actualizar pip?
-1. **Corrección de Errores:** Las nuevas versiones de pip a menudo incluyen correcciones de errores que pueden solucionar problemas encontrados en versiones anteriores.
-2. **Mejoras de Seguridad:** Las actualizaciones pueden incluir parches de seguridad que protegen tu entorno de desarrollo y aplicaciones contra vulnerabilidades conocidas.
-3. **Nuevas Funcionalidades:** Las versiones más recientes de pip pueden incluir nuevas características y mejoras que facilitan la gestión de paquetes.
-4. **Compatibilidad:** Mantener pip actualizado asegura que sea compatible con las últimas versiones de Python y otros paquetes.
-5. **Mejoras en el Rendimiento:** Las actualizaciones pueden incluir optimizaciones que mejoran el rendimiento de pip, haciéndolo más rápido y eficiente.
+- **Corrección de Errores:** Las nuevas versiones de pip a menudo incluyen correcciones de errores que pueden solucionar problemas encontrados en versiones anteriores.
+- **Mejoras de Seguridad:** Las actualizaciones pueden incluir parches de seguridad que protegen tu entorno de desarrollo y aplicaciones contra vulnerabilidades conocidas.
+- **Nuevas Funcionalidades:** Las versiones más recientes de pip pueden incluir nuevas características y mejoras que facilitan la gestión de paquetes.
+- **Compatibilidad:** Mantener pip actualizado asegura que sea compatible con las últimas versiones de Python y otros paquetes.
+- **Mejoras en el Rendimiento:** Las actualizaciones pueden incluir optimizaciones que mejoran el rendimiento de pip, haciéndolo más rápido y eficiente.
