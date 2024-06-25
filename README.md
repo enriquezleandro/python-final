@@ -7,7 +7,7 @@
 6. Abrimos VSC: ```code .```
 7. En terminal ingresamos el comando para saber la versión de Python que tenemos instalada: ```python -V python3 -V```
 8. Creamos el entorno virtual en Python: python3 ```-m venv venv``` **#Creamos el entorno virtual**
-9. Activamos el entorno virtual:source venv/bin/activate #Activamos el entorno virtual en Linux venv/scripts/activate #En windows
+9. Activamos el entorno virtual: ```source venv/bin/activate``` **#Activamos el entorno virtual en Linux**  ```venv/scripts/activate``` **#En windows**
 10. Hacemos actualización del pip de Python: ```python3 -m pip install --upgrade pip``` **#Actualizamos el pip**
 11. Investigar ¿Qué es el pip y porque lo actualizamos?
 12. Hacer al primer commit de este trabajo y unirlo al repositorio remoto.
